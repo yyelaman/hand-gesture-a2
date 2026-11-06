@@ -1,0 +1,11 @@
+numpy
+scipy
+scikit-learn
+scikit-image
+opencv-python
+matplotlib
+pandas
+joblib
+flask
+reportlab
+playwright   # only for src/record_demo.py

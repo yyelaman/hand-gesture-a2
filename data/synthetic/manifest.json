@@ -1,0 +1,6669 @@
+{
+ "note": "ALL FILES IN THIS FOLDER ARE SYNTHETIC (procedural stand-ins, derived from the 68 real photos). Never mix them into a TEST set; derive them only from training photos.",
+ "items": [
+  {
+   "file": "stress/peace/SYN_img_394_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_394_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_394_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_394_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_394_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_394_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/peace/SYN_img_394_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/peace/SYN_img_394_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/peace/SYN_img_394_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/peace/SYN_img_394_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/peace/SYN_img_394_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_394_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_394_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_394_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_394_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_396_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_396_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_396_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_396_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_396_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_396_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/peace/SYN_img_396_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_396_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_396_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_396_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/peace/SYN_img_396_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_396_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_396_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_396_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_396_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/peace/SYN_img_397_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_397_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_397_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_397_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_397_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_397_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/peace/SYN_img_397_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_397_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_397_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_397_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/peace/SYN_img_397_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_397_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_397_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_397_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_397_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_398_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_398_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_398_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_398_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_398_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_398_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/ok/SYN_img_398_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_398_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_398_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_398_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/ok/SYN_img_398_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/ok/SYN_img_398_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/ok/SYN_img_398_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/ok/SYN_img_398_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_398_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_399_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_399_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_399_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_399_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_399_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_399_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/peace/SYN_img_399_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_399_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_399_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_399_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/peace/SYN_img_399_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_399_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_399_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_399_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_399_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/stop/SYN_img_400_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_400_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_400_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_400_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_400_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_400_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_400_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_400_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_400_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_400_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/stop/SYN_img_400_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_400_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_400_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_400_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_400_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_401_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_401_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_401_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_401_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_401_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_401_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_401_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_401_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_401_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_401_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/thumb/SYN_img_401_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_401_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_401_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_401_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_401_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_403_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_403_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_403_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_403_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_403_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_403_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/ok/SYN_img_403_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_403_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_403_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_403_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/ok/SYN_img_403_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_403_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_403_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_403_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_403_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_407_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_407_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_407_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_407_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_407_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_407_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "clips/peace/SYN_img_407_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_407_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_407_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_407_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/peace/SYN_img_407_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/peace/SYN_img_407_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/peace/SYN_img_407_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/peace/SYN_img_407_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_407_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_408_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_408_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_408_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_408_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_408_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_408_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/peace/SYN_img_408_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_408_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_408_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_408_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/peace/SYN_img_408_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_408_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_408_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_408_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_408_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_409_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_409_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_409_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_409_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_409_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_409_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/thumb/SYN_img_409_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_409_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_409_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_409_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_409_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_409_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_409_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_409_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_409_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_410_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_410_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_410_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_410_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_410_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_410_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "clips/thumb/SYN_img_410_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_410_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_410_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_410_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_410_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_410_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_410_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_410_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_410_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_411_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_411_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_411_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_411_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_411_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_411_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/ok/SYN_img_411_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/ok/SYN_img_411_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/ok/SYN_img_411_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/ok/SYN_img_411_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/ok/SYN_img_411_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_411_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_411_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_411_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_411_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_412_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_412_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_412_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_412_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_412_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_412_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/ok/SYN_img_412_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_412_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_412_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_412_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/ok/SYN_img_412_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_412_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_412_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_412_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_412_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/stop/SYN_img_413_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_413_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_413_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_413_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_413_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_413_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/stop/SYN_img_413_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_413_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_413_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_413_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/stop/SYN_img_413_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_413_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_413_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_413_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_413_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_414_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_414_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_414_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_414_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_414_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_414_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "clips/stop/SYN_img_414_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_414_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_414_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_414_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/stop/SYN_img_414_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_414_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_414_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_414_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_414_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/stop/SYN_img_415_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_415_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_415_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_415_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_415_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_415_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/stop/SYN_img_415_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_415_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_415_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_415_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_415_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_415_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_415_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_415_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_415_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/peace/SYN_img_416_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_416_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_416_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_416_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_416_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_416_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/peace/SYN_img_416_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_416_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_416_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_416_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/peace/SYN_img_416_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_416_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_416_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_416_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_416_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_418_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_418_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_418_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_418_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_418_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_418_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_418_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_418_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_418_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_418_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/thumb/SYN_img_418_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_418_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_418_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_418_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_418_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_420_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_420_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_420_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_420_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_420_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_420_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "clips/stop/SYN_img_420_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_420_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_420_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_420_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_420_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_420_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_420_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_420_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_420_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_421_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_421_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_421_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_421_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_421_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_421_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_421_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_421_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_421_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_421_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_421_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_421_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_421_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_421_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_421_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_422_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_422_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_422_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_422_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_422_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_422_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/peace/SYN_img_422_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_422_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_422_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_422_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/peace/SYN_img_422_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_422_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_422_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_422_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_422_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_423_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_423_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_423_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_423_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_423_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_423_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/ok/SYN_img_423_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_423_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_423_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_423_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/ok/SYN_img_423_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_423_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_423_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_423_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_423_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_425_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_425_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_425_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_425_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_425_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_425_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/ok/SYN_img_425_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_425_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_425_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_425_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/ok/SYN_img_425_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_425_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_425_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_425_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_425_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_426_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_426_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_426_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_426_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_426_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_426_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/thumb/SYN_img_426_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_426_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_426_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_426_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_426_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/thumb/SYN_img_426_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/thumb/SYN_img_426_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/thumb/SYN_img_426_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_426_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_427_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_427_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_427_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_427_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_427_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_427_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/thumb/SYN_img_427_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_427_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_427_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_427_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/thumb/SYN_img_427_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_427_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_427_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_427_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_427_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_428_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_428_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_428_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_428_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_428_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_428_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_428_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_428_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_428_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_428_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/stop/SYN_img_428_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_428_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_428_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_428_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_428_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_429_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_429_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_429_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_429_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_429_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_429_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/stop/SYN_img_429_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_429_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_429_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_429_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/stop/SYN_img_429_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_429_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_429_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_429_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_429_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_430_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_430_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_430_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_430_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_430_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_430_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/peace/SYN_img_430_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_430_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_430_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_430_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/peace/SYN_img_430_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_430_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_430_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_430_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_430_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_432_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_432_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_432_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_432_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_432_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_432_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "clips/ok/SYN_img_432_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_432_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_432_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_432_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/ok/SYN_img_432_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/ok/SYN_img_432_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/ok/SYN_img_432_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/ok/SYN_img_432_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_432_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_433_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_433_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_433_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_433_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_433_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_433_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/ok/SYN_img_433_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_433_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_433_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_433_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/ok/SYN_img_433_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_433_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_433_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_433_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_433_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_434_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_434_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_434_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_434_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_434_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_434_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/thumb/SYN_img_434_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_434_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_434_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_434_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_434_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_434_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_434_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_434_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_434_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_435_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_435_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_435_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_435_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_435_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_435_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/thumb/SYN_img_435_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_435_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_435_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_435_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_435_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_435_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_435_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_435_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_435_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/stop/SYN_img_436_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_436_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_436_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_436_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_436_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_436_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_436_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_436_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_436_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_436_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_436_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_436_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_436_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_436_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_436_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_437_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_437_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_437_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_437_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_437_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_437_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_437_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_437_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_437_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_437_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/stop/SYN_img_437_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_437_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_437_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_437_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_437_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_438_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_438_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_438_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_438_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_438_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_438_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_438_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_438_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_438_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_438_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/peace/SYN_img_438_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_438_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_438_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/peace/SYN_img_438_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_438_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_440_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_440_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_440_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_440_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_440_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_440_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_440_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_440_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_440_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_440_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_440_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_440_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_440_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_440_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_440_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_441_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_441_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_441_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_441_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_441_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_441_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/thumb/SYN_img_441_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_441_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_441_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_441_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_441_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_441_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_441_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_441_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_441_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_442_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_442_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_442_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_442_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_442_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_442_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/thumb/SYN_img_442_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_442_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_442_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_442_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/thumb/SYN_img_442_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_442_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_442_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_442_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_442_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_445_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_445_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_445_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_445_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_445_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_445_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/stop/SYN_img_445_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_445_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_445_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_445_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/stop/SYN_img_445_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_445_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_445_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_445_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_445_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_446_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_446_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_446_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_446_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_446_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_446_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_446_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_446_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_446_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_446_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_446_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_446_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_446_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_446_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_446_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/ok/SYN_img_447_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_447_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_447_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/ok/SYN_img_447_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_447_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_447_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/ok/SYN_img_447_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_447_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_447_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_447_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/ok/SYN_img_447_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/ok/SYN_img_447_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/ok/SYN_img_447_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/ok/SYN_img_447_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_447_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_448_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_448_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_448_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_448_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_448_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_448_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/thumb/SYN_img_448_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_448_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_448_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_448_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_448_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/thumb/SYN_img_448_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/thumb/SYN_img_448_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/thumb/SYN_img_448_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_448_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_449_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_449_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_449_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_449_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_449_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_449_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_449_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_449_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_449_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_449_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/peace/SYN_img_449_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_449_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_449_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_449_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_449_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_450_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_450_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_450_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_450_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_450_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_450_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/ok/SYN_img_450_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_450_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_450_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/ok/SYN_img_450_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/ok/SYN_img_450_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_450_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_450_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/ok/SYN_img_450_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_450_w.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_451_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_451_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_451_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_451_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_451_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_451_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/peace/SYN_img_451_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_451_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_451_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_451_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/peace/SYN_img_451_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_451_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_451_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_451_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_451_w.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_452_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_452_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_452_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_452_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_452_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_452_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/thumb/SYN_img_452_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_452_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_452_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_452_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/thumb/SYN_img_452_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_452_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_452_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_452_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_452_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/stop/SYN_img_453_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_453_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_453_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_453_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_453_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_453_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/stop/SYN_img_453_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_453_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_453_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_453_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/stop/SYN_img_453_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_453_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_453_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_453_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_453_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_454_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_454_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_454_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_454_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_454_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_454_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/stop/SYN_img_454_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_454_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_454_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/stop/SYN_img_454_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/stop/SYN_img_454_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_454_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_454_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_454_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_454_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_455_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_455_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_455_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_455_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_455_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_455_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/peace/SYN_img_455_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_455_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_455_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_455_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_455_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_455_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_455_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_455_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_455_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_457_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_457_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_457_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_457_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_457_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_457_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/thumb/SYN_img_457_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_457_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_457_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/thumb/SYN_img_457_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/thumb/SYN_img_457_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_457_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_457_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_457_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_457_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_458_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_458_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_458_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_458_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_458_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_458_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/thumb/SYN_img_458_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_458_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_458_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/thumb/SYN_img_458_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/thumb/SYN_img_458_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_458_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_458_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_458_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_458_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/stop/SYN_img_459_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_459_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_459_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_459_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_459_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_459_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/stop/SYN_img_459_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_459_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_459_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_459_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/stop/SYN_img_459_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_459_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_459_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_459_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_459_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_460_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_460_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_460_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_460_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_460_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_460_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "clips/stop/SYN_img_460_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_460_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_460_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_460_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/stop/SYN_img_460_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_460_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_460_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/stop/SYN_img_460_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_460_w.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_462_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_462_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_462_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_462_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_462_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_462_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/peace/SYN_img_462_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_462_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_462_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_462_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/peace/SYN_img_462_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_462_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_462_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/peace/SYN_img_462_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_462_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_463_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_463_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_463_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_463_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_463_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/peace/SYN_img_463_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_463_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_463_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_463_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_463_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/peace/SYN_img_463_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_463_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_463_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "frames/peace/SYN_img_463_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_463_w.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_464_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_464_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_464_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_464_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_464_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_464_w_defocus.jpg",
+   "kind": "stress",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_464_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_464_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_464_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_464_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_464_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_464_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_464_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/stop/SYN_img_464_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_464_w.jpg",
+   "label": "stop",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_465_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_465_w_backlight.jpg",
+   "kind": "stress",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_465_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_465_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_465_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_465_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_465_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/thumb/SYN_img_465_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/thumb/SYN_img_465_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/thumb/SYN_img_465_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/thumb/SYN_img_465_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_465_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_465_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_465_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_465_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/ok/SYN_img_467_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_467_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_467_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_467_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/ok/SYN_img_467_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_467_w_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/ok/SYN_img_467_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_467_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_467_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_467_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/ok/SYN_img_467_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_467_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_467_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_467_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_467_w.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/thumb/SYN_img_468_w_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/thumb/SYN_img_468_w_new_background.jpg",
+   "kind": "stress",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/thumb/SYN_img_468_w_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_468_w_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/thumb/SYN_img_468_w_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_468_w_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_468_w_clip0.mp4",
+   "kind": "clip",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_468_w_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_468_w_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/thumb/SYN_img_468_w_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/thumb/SYN_img_468_w_clip1.mp4",
+   "kind": "clip",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_468_w_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_468_w_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/thumb/SYN_img_468_w_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_468_w.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_469_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_469_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_469_y_defocus.jpg",
+   "kind": "stress",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/ok/SYN_img_469_y_new_background.jpg",
+   "kind": "stress",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_469_y_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_469_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "clips/ok/SYN_img_469_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_469_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_469_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_469_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/ok/SYN_img_469_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_469_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_469_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/ok/SYN_img_469_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_469_y.jpg",
+   "label": "ok",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "stress/ok/SYN_img_470_y_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/ok/SYN_img_470_y_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/ok/SYN_img_470_y_new_background.jpg",
+   "kind": "stress",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/ok/SYN_img_470_y_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/ok/SYN_img_470_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/ok/SYN_img_470_y_defocus.jpg",
+   "kind": "stress",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/ok/SYN_img_470_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_470_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_470_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/ok/SYN_img_470_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "clips/ok/SYN_img_470_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_470_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_470_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/ok/SYN_img_470_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_470_y.jpg",
+   "label": "ok",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_471_y_new_background.jpg",
+   "kind": "stress",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_471_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_471_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_471_y_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_471_y_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/stop/SYN_img_471_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_471_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_471_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_471_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_471_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/stop/SYN_img_471_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_471_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_471_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_471_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_471_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/stop/SYN_img_472_y_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_472_y_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_472_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_472_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_472_y_new_background.jpg",
+   "kind": "stress",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/stop/SYN_img_472_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/stop/SYN_img_472_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_472_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_472_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "frames/stop/SYN_img_472_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "clips/stop/SYN_img_472_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_472_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_472_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/stop/SYN_img_472_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_472_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_473_y_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/peace/SYN_img_473_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_473_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_473_y_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_473_y_new_background.jpg",
+   "kind": "stress",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "new_background"
+  },
+  {
+   "file": "stress/peace/SYN_img_473_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_473_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_473_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_473_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "frames/peace/SYN_img_473_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "camera_motion_only"
+  },
+  {
+   "file": "clips/peace/SYN_img_473_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_473_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_473_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_473_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_473_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/thumb/SYN_img_475_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_475_y_color_cast.jpg",
+   "kind": "stress",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "stress/thumb/SYN_img_475_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/thumb/SYN_img_475_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/thumb/SYN_img_475_y_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/thumb/SYN_img_475_y_new_background.jpg",
+   "kind": "stress",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "new_background"
+  },
+  {
+   "file": "clips/thumb/SYN_img_475_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_475_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_475_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "frames/thumb/SYN_img_475_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "color_cast"
+  },
+  {
+   "file": "clips/thumb/SYN_img_475_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/thumb/SYN_img_475_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/thumb/SYN_img_475_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/thumb/SYN_img_475_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_475_y.jpg",
+   "label": "thumb",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_476_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/peace/SYN_img_476_y_defocus.jpg",
+   "kind": "stress",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/peace/SYN_img_476_y_motion_blur.jpg",
+   "kind": "stress",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "stress/peace/SYN_img_476_y_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/peace/SYN_img_476_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/peace/SYN_img_476_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "backlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_476_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_476_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_476_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "frames/peace/SYN_img_476_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "lowlight"
+  },
+  {
+   "file": "clips/peace/SYN_img_476_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_476_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_476_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/peace/SYN_img_476_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_476_y.jpg",
+   "label": "peace",
+   "condition": "defocus"
+  },
+  {
+   "file": "stress/stop/SYN_img_478_y_sensor_noise.jpg",
+   "kind": "stress",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "sensor_noise"
+  },
+  {
+   "file": "stress/stop/SYN_img_478_y_backlight.jpg",
+   "kind": "stress",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "backlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_478_y_overexposed.jpg",
+   "kind": "stress",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "overexposed"
+  },
+  {
+   "file": "stress/stop/SYN_img_478_y_lowlight.jpg",
+   "kind": "stress",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "lowlight"
+  },
+  {
+   "file": "stress/stop/SYN_img_478_y_camera_tilt.jpg",
+   "kind": "stress",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "camera_tilt"
+  },
+  {
+   "file": "stress/stop/SYN_img_478_y_defocus.jpg",
+   "kind": "stress",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_478_y_clip0.mp4",
+   "kind": "clip",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_478_y_clip0_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_478_y_clip0_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "frames/stop/SYN_img_478_y_clip0_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "defocus"
+  },
+  {
+   "file": "clips/stop/SYN_img_478_y_clip1.mp4",
+   "kind": "clip",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_478_y_clip1_f0.jpg",
+   "kind": "clip_frame",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_478_y_clip1_f1.jpg",
+   "kind": "clip_frame",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  },
+  {
+   "file": "frames/stop/SYN_img_478_y_clip1_f2.jpg",
+   "kind": "clip_frame",
+   "source": "img_478_y.jpg",
+   "label": "stop",
+   "condition": "motion_blur"
+  }
+ ]
+}

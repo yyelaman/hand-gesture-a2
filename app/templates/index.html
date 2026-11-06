@@ -1,0 +1,43 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Hand Gesture Demo - A2</title>
+<style>
+:root{--bg:#f6f7f9;--fg:#1b1f24;--card:#fff;--mut:#5b6670;--acc:#2f6fed;--warn:#b45309;--bd:#dde1e6}
+@media(prefers-color-scheme:dark){:root{--bg:#14171a;--fg:#e8ebee;--card:#1d2226;--mut:#9aa5b1;--acc:#6b9cff;--warn:#f0a35c;--bd:#2c343a}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.45 system-ui,sans-serif}
+main{max-width:1050px;margin:0 auto;padding:16px}h1{font-size:22px;margin:4px 0}h2{font-size:15px;margin:0 0 8px}
+.card{background:var(--card);border:1px solid var(--bd);border-radius:10px;padding:14px;margin:12px 0}
+.notice{border-left:4px solid var(--warn);background:var(--card);padding:10px 12px;border-radius:6px;font-size:13px;color:var(--mut)}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:12px}.grid img{width:100%;border-radius:8px;display:block}
+button,select,input[type=file]{font:inherit;padding:7px 10px;border-radius:7px;border:1px solid var(--bd);background:var(--card);color:var(--fg)}
+button.p{background:var(--acc);color:#fff;border-color:var(--acc);cursor:pointer}button:disabled{opacity:.5}
+.row{display:flex;gap:8px;flex-wrap:wrap;align-items:center}.bar{height:14px;background:var(--bd);border-radius:7px;overflow:hidden}.bar i{display:block;height:100%;background:var(--acc)}
+.sc{display:grid;grid-template-columns:60px 1fr 46px;gap:6px;align-items:center;font-size:13px;margin:3px 0}
+.big{font-size:30px;font-weight:700}.tag{display:inline-block;background:var(--warn);color:#fff;border-radius:5px;padding:1px 7px;font-size:12px}
+small,.mut{color:var(--mut)}video{max-width:100%;border-radius:8px}.nn{display:flex;gap:8px;flex-wrap:wrap}.nn figure{margin:0;width:100px;font-size:12px}.nn img{width:100px;border-radius:6px}
+</style></head><body><main>
+<h1>Hand gesture recognition - upload / camera &rarr; prediction &rarr; explanation</h1>
+<div class="notice"><b>Consent &amp; synthetic-media notice.</b> Photos you upload or capture are processed in memory on this machine and are not stored. Only photograph your own hand, or someone who agreed. Images produced by the <i>stress-test generator</i> are <b>SYNTHETIC</b> and carry a visible watermark. The model is trained on 68 photos of a few people &ndash; it is a coursework demo, not a reliable system.</div>
+<div class="card"><h2>1. Input</h2><div class="row">
+<input type="file" id="file" accept="image/*"><button id="cam">Start camera</button><button id="snap" disabled>Capture frame</button></div>
+<video id="video" autoplay playsinline muted style="display:none;margin-top:8px;max-height:240px"></video>
+<h2 style="margin-top:12px">Stress-test generator <span class="tag">SYNTHETIC</span></h2><div class="row">
+<select id="cond"><option value="none">none (original)</option>{% for c in conditions %}<option>{{c}}</option>{% endfor %}</select>
+<label>severity <input type="range" id="sev" min="0.3" max="1" step="0.1" value="0.8"></label><button class="p" id="run" disabled>Predict</button></div>
+<small id="hint">Pick an image or start the camera.</small></div>
+<div class="card" id="out" style="display:none"><h2>2. Result</h2><div class="row"><div><div class="big" id="label"></div><div id="scores" style="min-width:260px"></div></div>
+<div class="mut" id="lat" style="font-size:13px"></div></div>
+<div class="grid" style="margin-top:10px"><figure style="margin:0"><img id="im0"><small id="cap0">input</small></figure><figure style="margin:0"><img id="im1"><small>after enhancement (ArtAug-style polish, classical stand-in)</small></figure><figure style="margin:0"><img id="im2"><small>occlusion heatmap: red = regions the decision depends on</small></figure></div>
+<h2 style="margin-top:12px">Nearest training photos (HOG space)</h2><div class="nn" id="nn"></div></div>
+<div class="card"><h2>Environment</h2><div class="mut" style="font-size:13px"><b>Browser:</b> <span id="br"></span><br><b>Server:</b> {{server}}<br><b>Latency</b> is the server-side time for resize + enhance + HOG + SVM (excludes network and the heatmap).</div></div>
+</main><script>
+const $=id=>document.getElementById(id);let blob=null;$('br').textContent=navigator.userAgent+' | '+screen.width+'x'+screen.height;
+function set(b){blob=b;$('run').disabled=false;$('hint').textContent='Ready - press Predict.'}
+$('file').onchange=e=>e.target.files[0]&&set(e.target.files[0]);
+$('cam').onclick=async()=>{try{const s=await navigator.mediaDevices.getUserMedia({video:true});$('video').srcObject=s;$('video').style.display='block';$('snap').disabled=false}catch(e){$('hint').textContent='Camera unavailable ('+e.name+') - use upload.'}};
+$('snap').onclick=()=>{const v=$('video'),c=document.createElement('canvas');c.width=v.videoWidth;c.height=v.videoHeight;c.getContext('2d').drawImage(v,0,0);c.toBlob(b=>set(b),'image/jpeg',.92)};
+$('run').onclick=async()=>{const fd=new FormData();fd.append('image',blob,'in.jpg');fd.append('condition',$('cond').value);fd.append('severity',$('sev').value);fd.append('seed',Math.floor(Math.random()*1e6));
+ $('run').disabled=true;const t=performance.now();const r=await fetch('/api/predict',{method:'POST',body:fd});const d=await r.json();$('run').disabled=false;if(d.error){$('hint').textContent=d.error;return}
+ $('out').style.display='block';$('label').textContent=d.label;$('scores').innerHTML=Object.entries(d.scores).sort((a,b)=>b[1]-a[1]).map(([k,v])=>`<div class="sc"><span>${k}</span><div class="bar"><i style="width:${v*100}%"></i></div><span>${(v*100).toFixed(0)}%</span></div>`).join('')+'<small>relative SVM score (softmax), not a calibrated probability</small>';
+ $('im0').src=d.input;$('im1').src=d.enhanced;$('im2').src=d.heatmap;$('cap0').innerHTML=d.synthetic?'input <span class="tag">SYNTHETIC: '+d.condition+'</span>':'input';
+ $('nn').innerHTML=d.neighbours.map(n=>`<figure><img src="${n.img}">${n.label}</figure>`).join('');
+ const L=d.latency;$('lat').innerHTML=`inference <b>${L.inference_ms} ms</b> (avg ${L.avg_inference_ms} ms over ${L.n} requests)<br>heatmap ${L.heatmap_ms} ms, neighbours ${L.nn_ms} ms<br>round trip in browser ${(performance.now()-t).toFixed(0)} ms`};
+</script></body></html>
